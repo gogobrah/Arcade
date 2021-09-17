@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Dead By Daylight
+//Goran Simic
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (heart beat is heard) {
+    run away;
 } else {
-    //Add event below
+    stay put;
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (near generator) {
+    do generator;
 } else {
-    //Add event below
+    find generator;
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (exit gates are open) {
+    escape;
 } else {
-    //Add event below
+    open exit gates;
 }
 
 
